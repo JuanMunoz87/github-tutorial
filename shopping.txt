@@ -4,3 +4,4 @@ Apple
 Orange
 Cherries
 Strawberries
+Cereal
